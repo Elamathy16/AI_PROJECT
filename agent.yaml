@@ -1,0 +1,5 @@
+name: hsn_code_agent
+description: Agent that validates and suggests HSN codes.
+entry_point: src/agent.py:root_agent
+capabilities:
+  - conversational
